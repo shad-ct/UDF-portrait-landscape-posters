@@ -3,8 +3,8 @@ import Cropper from "react-easy-crop";
 import { getCroppedImg } from "./utils/cropImage.js";
 
 // Import the template images directly
-import template4 from "./assets/template4.png";
-import template3 from "./assets/template3.png";
+import template4 from "./assets/landscape.png";
+import template3 from "./assets/portrait.png";
 
 interface ImageData {
   id: string;
